@@ -1,37 +1,31 @@
-# 📄 **Network Packet Analyzer*
-# 🌐 Network Packet Analyzer
+# 📌 5: Network Packet Analyzer
 
-## 📌 Overview
-This project is a **packet sniffer tool** built in Python.  
-It captures and analyzes network packets, showing:
-- Source IP
-- Destination IP
-- Protocol
-- Payload data
+⚠️ Disclaimer: Packet sniffing without consent is illegal. This project is meant for **educational and lab use only**.
 
----
+## 📖 Introduction
+A **network packet analyzer** that captures live network traffic and displays useful details such as IP addresses, protocols, and payload data.
 
-## ✨ Features
-- Console version displays packets in terminal
-- GUI version shows packets in a graphical window
-- Uses **Scapy** for network packet capturing
+## 🎯 Purpose & Use Cases
+This tool is a simplified version of professional software like **Wireshark**. It helps students:
+- Learn how packets travel over networks
+- Understand protocols and packet structure
+- Practice network analysis in a lab environment
 
----
+## ⚙️ Features
+- 🌐 Captures real-time packets
+- 📨 Displays source and destination IPs
+- 📑 Shows protocol and payload details
+- 🖥️ Provides both console and GUI modes
 
-## 🛠️ How to Run
-1. Run console version:
-   ```bash
-   python console_version/packet_sniffer_console.py
-2. Run GUI version:
+## 🛠️ Tools & Technologies Used
+- Python 3
+- Scapy for packet sniffing
+- Tkinter for GUI
 
-python gui_version/packet_sniffer_gui.py
+## 🌟 Benefits
+- Builds foundational knowledge of network security
+- Helps learners practice packet analysis
+- Provides a stepping stone toward advanced tools like Wireshark
 
-⚡ Requirements
-
-Python 3.13.7
-
-Libraries:
-
-scapy
-
-tkinter (pre-installed)
+## ⚠️ Ethical Note
+This project should be used **only in test labs or with explicit permission**. Unauthorized use to capture others’ traffic is a violation of privacy and law.

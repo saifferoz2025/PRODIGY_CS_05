@@ -1,7 +1,4 @@
-# 📄 **Network Packet Analyzer**
-
-### `README.md`
-```markdown
+# 📄 **Network Packet Analyzer*
 # 🌐 Network Packet Analyzer
 
 ## 📌 Overview

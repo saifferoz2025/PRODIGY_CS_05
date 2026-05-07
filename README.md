@@ -29,3 +29,8 @@ This tool is a simplified version of professional software like **Wireshark**. I
 
 ## ⚠️ Ethical Note
 This project should be used **only in test labs or with explicit permission**. Unauthorized use to capture others’ traffic is a violation of privacy and law.
+
+## 👨‍💻 Author
+
+**Muhammad Saif Ur Rehman Feroz**  
+[LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
